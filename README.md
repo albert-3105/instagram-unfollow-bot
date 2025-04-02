@@ -45,6 +45,7 @@ Este bot automatiza el proceso de dejar de seguir usuarios en Instagram utilizan
 - MacOS requiere un entorno virtual para evitar conflictos con bibliotecas del sistema.
 - Instagram podría bloquear temporalmente tu cuenta si detecta demasiadas acciones automáticas.
 - Asegúrate de tener instalada la versión correcta de ChromeDriver compatible con tu navegador.
+- No uses el bot para dejar de seguir más de 1.000 usuarios a la vez. Si necesitas dejar de seguir a más de 1.000, espera entre 2 y 3 días antes de continuar.
 
 ## Contacto
 Si tienes problemas o sugerencias, crea un issue en el repositorio.
